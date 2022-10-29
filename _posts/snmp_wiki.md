@@ -18,7 +18,7 @@ date: 2021-11-28
 
 Overview and basic concept
 
-![Untitled](https://github.com/jjanghee28/jjanghee28.github.io/blob/master/assets/img/SNMP_FLOW.png)
+#![Untitled](https://github.com/jjanghee28/jjanghee28.github.io/blob/master/assets/img/SNMP_FLOW.png)
 
 - Managed device : 네트워크에 연결된 SNMP 인터페이스를 가지고 있는 장치
 - Agent : managed device 에서 동작하는 소프트웨어
@@ -30,7 +30,7 @@ Management information base (MIB)
 - 계층적인 구조로 구성
 - 각 정보는 object identifier (OID)로 구분한다.
 
-![Untitled](../assets/img/SNMP_MIB.png)
+#![Untitled](../assets/img/SNMP_MIB.png)
 
 Protocol details
 
