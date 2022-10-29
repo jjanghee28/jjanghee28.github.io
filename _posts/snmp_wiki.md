@@ -1,7 +1,5 @@
-# wiki
-
 ---
-title:  "Simple Network Management Protocol(SNMP)"
+title:  "wikki - Simple Network Management Protocol(SNMP)"
 
 categories:
   - Spec
@@ -12,7 +10,6 @@ toc: true
 toc_sticky: true
  
 date: 2021-11-28
-last_modified_at: 2022-10-29
 ---
 
 - TCP/IP 를 이용하여 네트워크 자원 관리를 위해 사용하는 프로토콜
